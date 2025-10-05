@@ -7,4 +7,4 @@
 - ⚙️ Passionate about **systems programming** and building efficient software  
 
 ## Connect with Me
-- 🐦 [Twitter](https://x.com/Numeez_17)
+-  [Twitter](https://x.com/Numeez_17)
